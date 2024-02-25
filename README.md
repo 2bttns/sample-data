@@ -1,3 +1,5 @@
+> Click here to learn how ot import this data to your 2bttns Console. https://docs.2bttns.com/guides/creating-and-managing-objects
+
 This repository markdown outlines various ways the provided JSON data can be utilized to recommend or personalize experiences across different domains, from coffee preferences and pet adoption to career development and mental health support.
 
 ***
