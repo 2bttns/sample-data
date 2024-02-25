@@ -49,6 +49,7 @@ Game prompt suggestions:
 * Which do you most need help with?
 * Personalize resources
 
+Ideas:
 - Offer personalized learning paths based on career goals (e.g., leadership skills for management aspirations).
 - Suggest courses to improve weak areas identified in performance reviews.
 - Recommend networking and entrepreneurship resources for those looking to start their own business.
@@ -57,6 +58,7 @@ Game prompt suggestions:
 Data on indoor activities for personalized entertainment:
 * Which is more fun?
 
+Ideas:
 - Suggest activities based on group size (e.g., board games for large groups, puzzles for solo activities).
 - Recommend virtual reality games for tech enthusiasts.
 - Offer cooking class options for individuals interested in learning new culinary skills.
@@ -69,6 +71,7 @@ Game prompt suggestions:
 * Which is morey our vibe?
 * Personalize menu by mood
 
+Ideas:
 - Create playlists to enhance or complement the customer's mood (e.g., calm music for relaxed mood).
 - Suggest menu items based on mood (e.g., comfort foods for cozy mood, energizing drinks for those feeling adventurous).
 - Design seating areas to cater to different moods (e.g., quiet corners for reflective mood, communal tables for social mood).
@@ -80,6 +83,7 @@ Game prompt suggestions:
 * Most days I feel...
 * Which do you feel more often?
 
+Ideas:
 - Tailor content and resources for individuals feeling overwhelmed or stressed.
 - Offer immediate support options for those feeling hopeless or depressed.
 - Personalize coping strategies and therapeutic approaches based on specific emotions (e.g., anger management techniques for those feeling angry).
@@ -90,6 +94,7 @@ Data on outdoor activities for adventure planning:
 Game prompt suggestions:
 * Which is more fun?
 
+Ideas:
 - Recommend activities based on weather conditions and season.
 - Suggest outdoor adventures for different fitness levels.
 - Offer group-oriented activities for families and friends.
