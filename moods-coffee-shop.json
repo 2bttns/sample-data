@@ -1,0 +1,171 @@
+{
+    "gameObjects": [
+        {
+            "id": "",
+            "name": "Relaxed",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Energized",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Content",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Curious",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Optimistic",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Social",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Focused",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Creative",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Inspired",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Reflective",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Cozy",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Adventurous",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Calm",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Comfortable",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Joyful",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Grateful",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Peaceful",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Hopeful",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Satisfied",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Excited",
+            "description": "",
+            "tagIds": [
+                "moods-at-coffee-shop"
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "id": "moods-at-coffee-shop",
+            "name": "Moods at Coffee Shop",
+            "description": "A collection of overall moods that one might be feeling when going to a coffee shop."
+        }
+    ]
+}

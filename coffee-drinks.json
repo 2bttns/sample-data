@@ -1,0 +1,77 @@
+{
+  "gameObjects": [
+    {
+      "id": "",
+      "name": "Espresso Single Shot",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Caramel Macchiato",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Vanilla Latte",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Classic Americano",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Chocolate Mocha",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Hazelnut Macchiato",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Flat White with Almond Milk",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Iced Coffee with Syrup",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Cold Brew",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+      "id": "",
+      "name": "Iced Latte",
+      "description": "",
+      "tagIds": ["coffee-drinks"]
+    },
+    {
+        "id": "",
+        "name": "Drip Coffee",
+        "description": "",
+        "tagIds": ["coffee-drinks"]
+      }
+  ],
+  "tags": [
+    {
+      "id": "coffee-drinks",
+      "name": "Coffee Drinks",
+      "description": "A collection of a variety of coffee shop menu items, suitable for a variety of coffee preferences."
+    }
+  ]
+}

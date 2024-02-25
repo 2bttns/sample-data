@@ -1,0 +1,171 @@
+{
+    "gameObjects": [
+        {
+            "id": "",
+            "name": "Depressed",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Anxious",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Overwhelmed",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Stressed",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Hopeless",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Irritable",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Lonely",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Exhausted",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Scared",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Ashamed",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Guilty",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Angry",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Frustrated",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Disappointed",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Worthless",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Numb",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Detached",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Sad",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Helpless",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Pessimistic",
+            "description": "",
+            "tagIds": [
+                "negative-emotions"
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "id": "negative-emotions",
+            "name": "Negative Emotions",
+            "description": "A collection of emotions tailored towards someone inquiring about mental health services, focusing on negative emotions"
+        }
+    ]
+}

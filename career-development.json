@@ -1,0 +1,171 @@
+{
+    "gameObjects": [
+        {
+            "id": "",
+            "name": "Leadership Skills",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Communication Skills",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Project Management",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Technical Skills in [Specific Field]",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Time Management",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Teamwork and Collaboration",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Critical Thinking",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Problem-Solving",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Adaptability",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Conflict Resolution",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Digital Literacy",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Data Analysis",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Marketing Strategies",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Sales Techniques",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Customer Service Excellence",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Financial Literacy",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Entrepreneurship",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Emotional Intelligence",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Networking Strategies",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Career Planning",
+            "description": "",
+            "tagIds": [
+                "career-resources"
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "id": "career-resources",
+            "name": "Career Resources",
+            "description": "for answering the question {What do you need to learn?} in the context of someone looking to browse career development resources"
+        }
+    ]
+}

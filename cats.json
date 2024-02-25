@@ -1,0 +1,102 @@
+{
+    "gameObjects": [
+      {
+        "id": "",
+        "name": "Friendly and Sociable",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Good with Children",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Low Maintenance",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Affectionate",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Good with Other Pets",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Quiet",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Independent",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Playful",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Energetic",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Easy to Train",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Health Issues",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Special Diet Requirements",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Senior Cat",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Needs Outdoor Access",
+        "description": "",
+        "tagIds": ["cat-details"]
+      },
+      {
+        "id": "",
+        "name": "Shy and Needs Quiet Home",
+        "description": "",
+        "tagIds": ["cat-details"]
+      }
+    ],
+    "tags": [
+      {
+        "id": "cat-details",
+        "name": "Cat Details",
+        "description": "A collection of various traits that could influence someone's decision to adopt a cat."
+      }
+    ]
+  }
+  

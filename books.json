@@ -1,0 +1,195 @@
+{
+    "gameObjects": [
+        {
+            "id": "",
+            "name": "Fantasy",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Science Fiction",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Mystery",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Thriller",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Romance",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Historical Fiction",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Young Adult",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Non-Fiction",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Biography",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Self-Help",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Award-Winning",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Best Sellers",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Critically Acclaimed",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Classic Literature",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "New Releases",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Indie",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Short Stories",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Memoir",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Philosophy",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Self-Improvement",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Business & Economics",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Science & Technology",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        },
+        {
+            "id": "",
+            "name": "Travel & Adventure",
+            "description": "",
+            "tagIds": [
+                "book-types"
+            ]
+        }
+    ],
+    "tags": [
+        {
+            "id": "book-types",
+            "name": "Book Types",
+            "description": " A collection of book genres and characteristics providing a broad spectrum for users to explore and filter books according to their interests."
+        }
+    ]
+}
