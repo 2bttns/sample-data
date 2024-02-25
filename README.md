@@ -1,6 +1,10 @@
+This repository contains ready-to-import JSONs of Game Objects. Use these in your games to recommend or personalize experiences across different domains, from coffee preferences and pet adoption to career development and mental health support.
+
+# Usage
+
 > Click here to learn how ot import this data to your 2bttns Console. https://docs.2bttns.com/guides/creating-and-managing-objects
 
-This repository markdown outlines various ways the provided JSON data can be utilized to recommend or personalize experiences across different domains, from coffee preferences and pet adoption to career development and mental health support.
+Once uploaded, these objects are pre-organized into tags. To access them, navigate to your game's 'Input Tags' section under 'Game' and locate your newly added data
 
 ***
 
