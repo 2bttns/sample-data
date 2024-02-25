@@ -2,7 +2,7 @@ This repository contains ready-to-import JSONs of Game Objects. Use these in you
 
 # Usage
 
-> Navigate to the link to learn how to import this data to your 2bttns Console. https://docs.2bttns.com/guides/creating-and-managing-objects
+> This sample data comes with a tailored walkthrough here: https://docs.2bttns.com/cal-hacks/cal-hacks
 
 Once uploaded, these objects are pre-organized into tags. To access them, navigate to your game's 'Input Tags' section under 'Game' and locate your newly added data
 
